@@ -95,6 +95,8 @@ public class AparseArrayDemo {
             }
             System.out.println();
         }
+
+        System.out.println("ending");
     }
 }
 
